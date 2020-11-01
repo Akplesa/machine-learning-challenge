@@ -9,7 +9,7 @@ Kepler had verified 1284 new exoplanets as of May 2016. As of October 2017 there
 Background SOURCE: https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
 
-# Model 1 - K nearest neighbors
+## Model 1 - K nearest neighbors
 My first model used the K nearest neighbor algorithm. 
 This algorithim finds the distances between a query and all of the data examples. It selects the specified number examples "K" closest to the query and votes for the most frequent labels or averages the labels.
 
