@@ -17,6 +17,6 @@ This algorithim finds the distances between a query and all of the data examples
 My second model uses a deep neural network.
 a Neural network uses many layers of nodes to aquire high-level functions from input information.
 
-## ** Summary **
+** Summary **
 For  *Model 1* accuracy scores decreased with increasing k with the highest testing score at 83.1% where k=13. For *Model 2* I trained 2 models for a higher level of accuracy with the highest accuracy score at 89.2% during the second run.  
 
