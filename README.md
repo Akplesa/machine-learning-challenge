@@ -13,3 +13,10 @@ Background SOURCE: https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 My first model used the K nearest neighbor algorithm. 
 This algorithim finds the distances between a query and all of the data examples. It selects the specified number examples "K" closest to the query and votes for the most frequent labels or averages the labels.
 
+## Model 2 - Deep Neural Network 
+My second model uses a deep neural network.
+a Neural network uses many layers of nodes to aquire high-level functions from input information.
+
+## ** Summary **
+For  *Model 1* accuracy scores decreased with increasing k with the highest testing score at 83.1% where k=13. For *Model 2* I trained 2 models for a higher level of accuracy with the highest accuracy score at 89.2% during the second run.  
+
